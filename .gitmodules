@@ -25,3 +25,6 @@
 [submodule "intel_coach"]
 	path = intel_coach
 	url = https://github.com/NervanaSystems/coach.git
+[submodule "instructions"]
+	path = instructions
+	url = git@github.com:TorrinLynn/deep-racer.git
