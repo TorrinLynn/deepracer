@@ -107,3 +107,8 @@ venv.bak/
 
 # just some dev files
 dr_util_config.json
+
+# ignore minio data
+rl_coach/data/
+#ignore generated sagemaker virtual environment
+sagemaker_venv/
