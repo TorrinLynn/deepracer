@@ -112,3 +112,5 @@ dr_util_config.json
 rl_coach/data/
 #ignore generated sagemaker virtual environment
 sagemaker_venv/
+
+.vscode
